@@ -86,9 +86,3 @@ visualize_workspace_with_target(workspace_points, [0, 0, 0.4])
 
 **문의/기여**  
 코드 개선, 버그 리포트, 제안 등은 언제든 환영합니다!
-
-Citations:
-[1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/42143574/21109565-eb9c-4dd2-af6e-f4bfd8ae7f94/paste.txt
-
----
-Perplexity로부터의 답변: pplx.ai/share
